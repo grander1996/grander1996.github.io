@@ -8,3 +8,20 @@ img {
     width: 20px;
     background-color: green;
 }
+
+#logo1 {
+    font-size:30px;color:green;
+}
+header{ 
+
+    border: solid   
+    
+    ;
+}
+
+.header-class{
+    text-align: center;
+    display: block;
+    height: 80px;
+    font-size: 80px;
+}
