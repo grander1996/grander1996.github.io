@@ -3,3 +3,8 @@ img {
     height: auto;
     width: 49%
 }
+
+#spotify-icon {
+    width: 20px;
+    background-color: green;
+}
